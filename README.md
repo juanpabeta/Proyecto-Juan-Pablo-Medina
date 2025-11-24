@@ -24,7 +24,7 @@ Este código fue construido para que se puede enterder claramente todo el codigo
 
 En el siguiente video explico paso a paso la estructura de mi código, cómo funcionan los algoritmos implementados y muestro la ejecucion del programa:
 
-👉 **[BORRA ESTO Y PEGA AQUÍ EL LINK DE TU VIDEO DE YOUTUBE O DRIVE]** 👈
+**https://youtu.be/EVDD13IBJvQ**
 
 
 
